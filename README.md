@@ -2,14 +2,14 @@
 > Atividade Prática feita na Universidade Católica de Santos
 
 **Dupla** 🤝🏼
-- Gustavo Marcos Xavier  
-- Leonardo De Almeida  
+*- Gustavo Marcos Xavier*  
+*- Leonardo De Almeida*  
 
 **Matéria**📖
-Arquitetura de Computadores  
+*Arquitetura de Computadores*  
 
 **Professor** 👨🏻‍🏫
-Walter
+*Walter*
 
 ---
 
