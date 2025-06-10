@@ -1,14 +1,14 @@
 # RISC-V de Ciclo Único
-## Atividade Prática feita na Universidade Católica de Santos
+> Atividade Prática feita na Universidade Católica de Santos
 
-## Dupla 🤝🏼
+**Dupla** 🤝🏼
 - Gustavo Marcos Xavier  
 - Leonardo De Almeida  
 
-## Matéria 📖
+**Matéria**📖
 Arquitetura de Computadores  
 
-## Professor 👨🏻‍🏫
+**Professor** 👨🏻‍🏫
 Walter
 
 ---
